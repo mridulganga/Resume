@@ -17,12 +17,13 @@ Mobile : [9916385511](tel:9916385511)
 
 ## Education
 #### The National Institute of Engineering, Mysore — B E  
-MONTH 2015 - PRESENT  
+2015 - PRESENT  
 SGPA 9.3  
 
 #### BR DAV Public School, Begusarai — PU  
-MONTH 2001 - MONTH 2015  
+2001 - 2015  
 12th Percentage 95.2%  
+10th CGPA 9.4  
 
 ## Experience
 #### ONYX, Mysore — Campus Venture Head
