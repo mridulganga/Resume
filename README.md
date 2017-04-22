@@ -12,8 +12,8 @@ Mobile : [9916385511](tel:9916385511)
 5. Hardware Interfacing with Arduino and Raspberry Pi
 
 ## Languages
-#### Python, Java, C, C++
-#### HTML, CSS, JS
+#### Python, Java, C, C++, SQL, VB6
+#### HTML, CSS, JS, XML, Markdown
 
 ## Education
 #### The National Institute of Engineering, Mysore — B E  
