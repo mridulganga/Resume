@@ -1,15 +1,15 @@
 # Mridul Ganga
-
+  
 ## Personal Information
 Location : NIE Boys Hostel, Mysore  
-Mobile : 9916385511
+Mobile : [9916385511](tel:9916385511)
 
 ## Skills
-#### Full Stack Web Development
-#### Android App Development
-#### Design and Photoshop
-#### Desktop App Development
-#### Hardware Interfacing with Arduino and Raspberry Pi
+1. Full Stack Web Development
+2. Android App Development
+3. Design and Photoshop
+4. Desktop App Development
+5. Hardware Interfacing with Arduino and Raspberry Pi
 
 ## Languages
 #### Python, Java, C, C++
@@ -19,7 +19,7 @@ Mobile : 9916385511
 #### The National Institute of Engineering, Mysore — B E  
 MONTH 2015 - PRESENT  
 SGPA 9.3  
-  
+
 #### BR DAV Public School, Begusarai — PU  
 MONTH 2001 - MONTH 2015  
 12th Percentage 95.2%  
@@ -27,7 +27,7 @@ MONTH 2001 - MONTH 2015
 ## Experience
 #### ONYX, Mysore — Campus Venture Head
 June 2016 - PRESENT  
-  
+ 
 #### NISB, Mysore — Webmaster
 January 2017 - PRESENT  
 
@@ -38,15 +38,26 @@ January 2017 - PRESENT
 4. Became Head Boy in BR DAV Public School
 
 ## Projects
-#### Codio — a coding website, where people can browse and compile code.
-This website was presented in TechNIEks hackathon and won 2nd prize in the same. (codio.in)
-#### NISB Official App — A native android App for the NISB Organisation.
-The Application has integration with the nisb.in website, the blog site and the facebook graph api.
-#### NISB Official Website and Blog — A NISB’s official Website and Blog.
+1. **Codio — a coding website, where people can browse and compile code.**
+This website was presented in TechNIEks hackathon 
+and won 2nd prize in the same. (codio.in)
+2. **NISB Official App — A native android App for the NISB Organisation.**
+The Application has integration with the nisb.in website, 
+the blog site and the facebook graph api.
+3. **NISB Official Website and Blog — A NISB’s official Website and Blog.**
 The website uses Django as a web server. (nisb.in)
 Various projects in Python, Java and Android.
-#### App Center - A VB6 project for managing applications on Windows
-The App Center was a VB6 project which used various concepts of the linux repository system to implement the same in Windows
+4. **App Center - A VB6 project for managing applications on Windows**
+The App Center was a VB6 project which used various concepts of the 
+linux repository system to implement the same in Windows
+5. **Trizz Media Player - A VB6 project to play and organise mp3 files.**
+This project has tons of feature, including playlists, online streaming 
+and library support. It also used some very good algorithms to search the files instantly.
 
 ## Hobbies
 #### Sketching, Listening Music, Reading Tech and Myth articles.
+
+## Social Links
+[Facebook](https://www.facebook.com/mridulganga)
+[LinkedIN](https://www.linkedin.com/in/mridul-ganga-03326aa2/)
+[Github](https://github.com/mridulganga)
