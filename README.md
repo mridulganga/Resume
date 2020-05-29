@@ -1,8 +1,4 @@
 # Mridul Ganga
-  
-## Personal Information
-Location : NIE Boys Hostel, Mysore  
-Mobile : [9916385511](tel:9916385511)
 
 ## Skills
 1. Full Stack Web Development
